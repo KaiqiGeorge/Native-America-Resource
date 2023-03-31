@@ -4,8 +4,8 @@ body{
     margin-left: 200px;
 }
 .header{
-     padding-left: 20px;
-     padding-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     border: 1px solid white;
     border-radius: 4px;
     background-color: rgb(103, 70, 36);
@@ -43,4 +43,13 @@ img{
 }
 .first-row{
     margin-bottom: -5px;
+}
+.footer{
+    margin-top: 40px;
+    font-size: 20px;
+}
+.footer a{
+    text-decoration: none;
+    color:rgb(103, 70, 36);
+    margin-right: 30px;
 }

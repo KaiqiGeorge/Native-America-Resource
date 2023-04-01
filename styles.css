@@ -87,7 +87,7 @@ img{
     color: black;
     text-decoration: none;
 }
-.about{
+.about,.contact,.experience{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
     color:rgb(103, 70, 36);
 }
@@ -103,4 +103,27 @@ img{
 .about footer{
     font-size: 18px;
     margin-top: 90px;
+}
+.contact{
+    margin: 150 auto;
+    text-align: center;
+}
+.contact h1{
+   font-size: 40px;
+   margin-top: 100px;
+   margin-bottom: 60px;
+
+}
+.contact h2{
+    margin-bottom: 30px;
+    color:rgb(103, 70, 36);
+ 
+   
+}
+.contact h2:hover{
+    color: black;
+}
+.contact .footer{
+    margin-top: 200px;
+    opacity: 0;
 }

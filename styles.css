@@ -9,11 +9,14 @@
     border: 1px solid white;
     border-radius: 4px;
     background-color: rgb(103, 70, 36);
+    background-image: url(./src/images/bd3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
     align-items: center;
     margin: 0 auto;
 }
 .title,.subtitle{
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     color: white;
     font-size: 60px;
     text-align: center;   
@@ -26,7 +29,7 @@
     justify-content: space-around;
     margin-top: 40px;
     margin-bottom: 40px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: 30px;
     color:  rgb(103, 70, 36);
 
@@ -50,7 +53,7 @@ img{
 .footer{
     margin-top: 40px;
     font-size: 20px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:'Times New Roman', Times, serif;
 }
 .footer a{
     text-decoration: none;
@@ -88,7 +91,7 @@ img{
     text-decoration: none;
 }
 .about,.contact,.experience{
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
+    font-family:'Times New Roman', Times, serif;
     color:rgb(103, 70, 36);
 }
 .about img{
@@ -102,7 +105,7 @@ img{
 }
 .about footer{
     font-size: 18px;
-    margin-top: 90px;
+    margin-top: 120px;
 }
 .contact{
     margin: 150 auto;
